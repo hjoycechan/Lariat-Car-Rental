@@ -1,1 +1,1 @@
-Exploratory analysis and inferential statistics using Excel to identify the key variables that had a statistically significant impact on housing prices.
+Identified key drivers and actionable insights through data analysis to optimize revenue and reduce costs, informing strategic decisions for enhancing profitability in the car rental business for the next fiscal year.
